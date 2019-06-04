@@ -1,0 +1,152 @@
+06/03/2019 07:17:58 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_invalidLoginBlank++++++++++++++++++++++++++++++++++++
+06/03/2019 07:17:58 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_invalidLoginWrongEmail++++++++++++++++++++++++++++++++++++
+06/03/2019 07:17:58 PM - LoginTests - INFO: test_invalidLoginWrongEmail
+06/03/2019 07:17:58 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_validLoginWrongPassword++++++++++++++++++++++++++++++++++++
+06/03/2019 07:17:58 PM - LoginTests - INFO: test_invalidLoginWrongPassword
+06/03/2019 07:17:58 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_validLogin++++++++++++++++++++++++++++++++++++
+06/03/2019 07:17:58 PM - LoginTests - INFO: test_validLogin
+06/03/2019 07:17:58 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_validLogout++++++++++++++++++++++++++++++++++++
+06/03/2019 07:18:00 PM - WebDriverFactory - INFO: Running Chrome Tests
+06/03/2019 07:18:08 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_invalidLoginBlank++++++++++++++++++++++++++++++++++++
+06/03/2019 07:18:08 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:08 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:08 PM - LoginPage - INFO: Element found with locator: div.user-section>a.LinkButton.btn.btn-secondary and  locatorType: css
+06/03/2019 07:18:10 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:10 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:10 PM - LoginPage - INFO: Element found with locator: login-iframe and  locatorType: class
+06/03/2019 07:18:10 PM - LoginPage - INFO: Switched to iframe found by locator login-iframe
+06/03/2019 07:18:10 PM - LoginPage - INFO: Click SignIn Link
+06/03/2019 07:18:10 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:10 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:10 PM - LoginPage - INFO: Element found with locator: submit-button and  locatorType: id
+06/03/2019 07:18:10 PM - LoginPage - INFO: Click Login Button
+06/03/2019 07:18:10 PM - LoginPage - INFO: Just completed the blankLogin method
+06/03/2019 07:18:10 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:10 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:10 PM - LoginPage - INFO: Element found with locator: .//h2[contains(text(), 'Sign In')] and  locatorType: xpath
+06/03/2019 07:18:10 PM - LoginPage - INFO: TEST PASS: Verified signin header is still present for blank login.
+06/03/2019 07:18:10 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verify Can't Login with Blank Fields
+06/03/2019 07:18:10 PM - TestStatus - INFO: test_invalidLoginBlank ### TEST SUCCESSFUL
+06/03/2019 07:18:10 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++ENDING test_invalidLoginBlank++++++++++++++++++++++++++++++++++++
+06/03/2019 07:18:10 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_validLoginWrongPassword++++++++++++++++++++++++++++++++++++
+06/03/2019 07:18:10 PM - LoginTests - INFO: test_invalidLoginWrongPassword
+06/03/2019 07:18:10 PM - LoginTests - INFO: /Users/angee/PycharmProjects/XomePython3/testdata/TestData.xlsx
+06/03/2019 07:18:10 PM - ExcelUtils - INFO: <Worksheet "test_validLogin">
+06/03/2019 07:18:10 PM - ExcelUtils - INFO: Got active sheet.
+06/03/2019 07:18:10 PM - ExcelUtils - INFO: <Worksheet "test_invalidLoginWrongPassword">
+06/03/2019 07:18:10 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:10 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:10 PM - LoginPage - INFO: Element found with locator: security_loginname and  locatorType: id
+06/03/2019 07:18:10 PM - LoginPage - INFO: Enter Email
+06/03/2019 07:18:10 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:10 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:10 PM - LoginPage - INFO: Element found with locator: security_password and  locatorType: id
+06/03/2019 07:18:11 PM - LoginPage - INFO: Enter Password
+06/03/2019 07:18:11 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:11 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:11 PM - LoginPage - INFO: Element found with locator: submit-button and  locatorType: id
+06/03/2019 07:18:13 PM - LoginPage - INFO: Click Login Button
+06/03/2019 07:18:13 PM - LoginPage - INFO: Just completed the wrongLogin method
+06/03/2019 07:18:13 PM - LoginPage - INFO: browser: chrome
+06/03/2019 07:18:13 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:13 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:13 PM - LoginPage - INFO: Element found with locator: .//div[@class='row-fluid errorMessageBox errorMessageBoxServerSide']/ul/li and  locatorType: xpath
+06/03/2019 07:18:13 PM - LoginPage - INFO: Error text found on page is: Oops, the e-mail or password doesn't match.
+06/03/2019 07:18:13 PM - LoginPage - INFO: TEST PASS: Verified error for wrong login. Oops, the e-mail or password doesn't match.
+06/03/2019 07:18:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verify Can't Login with Wrong Password
+06/03/2019 07:18:13 PM - TestStatus - INFO: test_validLoginWrongPassword ### TEST SUCCESSFUL
+06/03/2019 07:18:13 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++ENDING test_validLoginWrongPassword++++++++++++++++++++++++++++++++++++
+06/03/2019 07:18:13 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_invalidLoginWrongEmail++++++++++++++++++++++++++++++++++++
+06/03/2019 07:18:13 PM - LoginTests - INFO: test_invalidLoginWrongEmail
+06/03/2019 07:18:13 PM - LoginTests - INFO: /Users/angee/PycharmProjects/XomePython3/testdata/TestData.xlsx
+06/03/2019 07:18:13 PM - ExcelUtils - INFO: <Worksheet "test_validLogin">
+06/03/2019 07:18:13 PM - ExcelUtils - INFO: Got active sheet.
+06/03/2019 07:18:13 PM - ExcelUtils - INFO: <Worksheet "test_invalidLoginWrongEmail">
+06/03/2019 07:18:13 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:13 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:13 PM - LoginPage - INFO: Element found with locator: security_loginname and  locatorType: id
+06/03/2019 07:18:13 PM - LoginPage - INFO: Enter Email
+06/03/2019 07:18:13 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:13 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:13 PM - LoginPage - INFO: Element found with locator: security_password and  locatorType: id
+06/03/2019 07:18:13 PM - LoginPage - INFO: Enter Password
+06/03/2019 07:18:13 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:13 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:13 PM - LoginPage - INFO: Element found with locator: submit-button and  locatorType: id
+06/03/2019 07:18:14 PM - LoginPage - INFO: Click Login Button
+06/03/2019 07:18:14 PM - LoginPage - INFO: Just completed the wrongLogin method
+06/03/2019 07:18:14 PM - LoginPage - INFO: browser: chrome
+06/03/2019 07:18:14 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:14 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:14 PM - LoginPage - INFO: Element found with locator: .//div[@class='row-fluid errorMessageBox errorMessageBoxServerSide']/ul/li and  locatorType: xpath
+06/03/2019 07:18:14 PM - LoginPage - INFO: Error text found on page is: Oops, the e-mail or password doesn't match.
+06/03/2019 07:18:14 PM - LoginPage - INFO: TEST PASS: Verified error for wrong login. Oops, the e-mail or password doesn't match.
+06/03/2019 07:18:14 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verify Can't Login with Wrong Email
+06/03/2019 07:18:14 PM - TestStatus - INFO: test_invalidLoginWrongEmail ### TEST SUCCESSFUL
+06/03/2019 07:18:14 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++ENDING test_invalidLoginWrongEmail++++++++++++++++++++++++++++++++++++
+06/03/2019 07:18:14 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_validLogin++++++++++++++++++++++++++++++++++++
+06/03/2019 07:18:14 PM - LoginTests - INFO: test_validLogin
+06/03/2019 07:18:14 PM - LoginTests - INFO: /Users/angee/PycharmProjects/XomePython3/testdata/TestData.xlsx
+06/03/2019 07:18:14 PM - ExcelUtils - INFO: <Worksheet "test_validLogin">
+06/03/2019 07:18:14 PM - ExcelUtils - INFO: Got active sheet.
+06/03/2019 07:18:14 PM - ExcelUtils - INFO: <Worksheet "test_validLogin">
+06/03/2019 07:18:14 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:14 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:14 PM - LoginPage - INFO: Element found with locator: security_loginname and  locatorType: id
+06/03/2019 07:18:14 PM - LoginPage - INFO: Enter Email
+06/03/2019 07:18:14 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:15 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:15 PM - LoginPage - INFO: Element found with locator: security_password and  locatorType: id
+06/03/2019 07:18:15 PM - LoginPage - INFO: Enter Password
+06/03/2019 07:18:15 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:15 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:15 PM - LoginPage - INFO: Element found with locator: submit-button and  locatorType: id
+06/03/2019 07:18:17 PM - LoginPage - INFO: Click Login Button
+06/03/2019 07:18:17 PM - LoginPage - INFO: Just completed the login method
+06/03/2019 07:18:20 PM - LoginPage - INFO: Switch back to default content
+06/03/2019 07:18:20 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:20 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:20 PM - LoginPage - INFO: Element found with locator: .//div[@class='NavSubmenu btn-group ']/div[@id='uniqid-NavSubmenu-button-14']/span[@class='NavItem top-level user-menu']/span and  locatorType: xpath
+06/03/2019 07:18:20 PM - LoginPage - INFO: Element was found. Now getting its text.
+06/03/2019 07:18:20 PM - LoginPage - INFO: Username is AUTOMATION TESTER
+06/03/2019 07:18:20 PM - LoginPage - INFO: ***VERIFIED SUCCESSFUL LOGIN.***
+06/03/2019 07:18:20 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verify Can Login Successfully
+06/03/2019 07:18:20 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+06/03/2019 07:18:20 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++ENDING test_validLogin++++++++++++++++++++++++++++++++++++
+06/03/2019 07:18:20 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_validLogout++++++++++++++++++++++++++++++++++++
+06/03/2019 07:18:20 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:20 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:20 PM - LoginPage - INFO: Element found with locator: .//div[@class='NavSubmenu btn-group ']/div[@id='uniqid-NavSubmenu-button-14']/span[@class='NavItem top-level user-menu']/span and  locatorType: xpath
+06/03/2019 07:18:20 PM - LoginPage - INFO: Mouse over to element
+06/03/2019 07:18:20 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:20 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:20 PM - LoginPage - INFO: Element found with locator: .//a[@class='NavItem user-nav-item link' and contains(text(), 'Sign Out')] and  locatorType: xpath
+06/03/2019 07:18:20 PM - LoginPage - INFO: Just completed the logout method
+06/03/2019 07:18:23 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:18:23 PM - LoginPage - INFO: Wait for element and found.
+06/03/2019 07:18:23 PM - LoginPage - INFO: Element found with locator: div.user-section>a.LinkButton.btn.btn-secondary and  locatorType: css
+06/03/2019 07:18:23 PM - LoginPage - INFO: ***SUCCESSFULLY LOGGED OUT.***
+06/03/2019 07:18:23 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verify Can Logout Successfully
+06/03/2019 07:18:23 PM - TestStatus - INFO: test_validLogout ### TEST SUCCESSFUL
+06/03/2019 07:18:23 PM - LoginTests - INFO: ++++++++++++++++++++++++++++++++++++ENDING test_validLogout++++++++++++++++++++++++++++++++++++
+
+06/03/2019 07:24:51 PM - WebDriverFactory - INFO: Running Android Tests
+06/03/2019 07:25:01 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verify Can't Login with Blank Fields
+06/03/2019 07:25:01 PM - TestStatus - INFO: test_minvalidLoginBlank ### TEST SUCCESSFUL
+06/03/2019 07:25:01 PM - ExcelUtils - INFO: <Worksheet "test_mvalidLogout">
+06/03/2019 07:25:01 PM - ExcelUtils - INFO: Got active sheet.
+06/03/2019 07:25:01 PM - ExcelUtils - INFO: <Worksheet "test_minvalidLoginWrongPassword">
+06/03/2019 07:25:09 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verify Can't Login with Wrong Password
+06/03/2019 07:25:09 PM - TestStatus - INFO: test_mvalidLoginWrongPassword ### TEST SUCCESSFUL
+06/03/2019 07:25:09 PM - ExcelUtils - INFO: <Worksheet "test_mvalidLogout">
+06/03/2019 07:25:09 PM - ExcelUtils - INFO: Got active sheet.
+06/03/2019 07:25:09 PM - ExcelUtils - INFO: <Worksheet "test_minvalidLoginWrongEmail">
+06/03/2019 07:25:15 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verify Can't Login with Wrong Email
+06/03/2019 07:25:15 PM - TestStatus - INFO: test_minvalidLoginWrongEmail ### TEST SUCCESSFUL
+06/03/2019 07:25:15 PM - ExcelUtils - INFO: <Worksheet "test_mvalidLogout">
+06/03/2019 07:25:15 PM - ExcelUtils - INFO: Got active sheet.
+06/03/2019 07:25:15 PM - ExcelUtils - INFO: <Worksheet "test_mvalidLogin">
+06/03/2019 07:25:25 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verify Can Login Successfully
+06/03/2019 07:25:25 PM - TestStatus - INFO: test_mvalidLogin ### TEST SUCCESSFUL
+06/03/2019 07:25:37 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verify Can Logout Successfully
+06/03/2019 07:25:37 PM - TestStatus - INFO: test_mvalidLogout ### TEST SUCCESSFUL

@@ -1,0 +1,146 @@
+06/03/2019 07:24:43 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_minvalidLoginBlank++++++++++++++++++++++++++++++++++++
+06/03/2019 07:24:43 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_minvalidLoginWrongEmail++++++++++++++++++++++++++++++++++++
+06/03/2019 07:24:43 PM - MLoginTests - INFO: test_minvalidLoginWrongEmail
+06/03/2019 07:24:43 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_mvalidLoginWrongPassword++++++++++++++++++++++++++++++++++++
+06/03/2019 07:24:43 PM - MLoginTests - INFO: test_minvalidLoginWrongPassword
+06/03/2019 07:24:43 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_mvalidLogin++++++++++++++++++++++++++++++++++++
+06/03/2019 07:24:43 PM - MLoginTests - INFO: test_mvalidLogin
+06/03/2019 07:24:43 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_mvalidLogout++++++++++++++++++++++++++++++++++++
+06/03/2019 07:24:51 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_minvalidLoginBlank++++++++++++++++++++++++++++++++++++
+06/03/2019 07:24:51 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:24:52 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:24:52 PM - MLoginPage - INFO: Element found with locator: com.android.packageinstaller:id/permission_allow_button and  locatorType: id
+06/03/2019 07:24:52 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:24:54 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:24:54 PM - MLoginPage - INFO: Element found with locator: android.widget.ImageButton and  locatorType: class
+06/03/2019 07:24:54 PM - MLoginPage - INFO: Click hamburger menu
+06/03/2019 07:24:54 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:24:55 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:24:55 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/cont_title and  locatorType: id
+06/03/2019 07:24:58 PM - MLoginPage - INFO: Click sign in
+06/03/2019 07:24:58 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:24:58 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:24:58 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/button_login and  locatorType: id
+06/03/2019 07:24:58 PM - MLoginPage - INFO: Click login button
+06/03/2019 07:24:58 PM - MLoginPage - INFO: Just completed the blankLogin method
+06/03/2019 07:24:59 PM - MLoginPage - INFO: errormsg is: Error Message
+email is required
+06/03/2019 07:25:01 PM - MLoginPage - INFO: TEST PASS: Verified email is required error.
+06/03/2019 07:25:01 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++ENDING test_minvalidLoginBlank++++++++++++++++++++++++++++++++++++
+06/03/2019 07:25:01 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_mvalidLoginWrongPassword++++++++++++++++++++++++++++++++++++
+06/03/2019 07:25:01 PM - MLoginTests - INFO: test_minvalidLoginWrongPassword
+06/03/2019 07:25:01 PM - MLoginTests - INFO: /Users/angee/PycharmProjects/XomePython3/testdata/MobileTestData.xlsx
+06/03/2019 07:25:01 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:01 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:01 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/edittext_login_email and  locatorType: id
+06/03/2019 07:25:01 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:02 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:02 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/textview_login_password and  locatorType: id
+06/03/2019 07:25:02 PM - MLoginPage - INFO: Clear fields
+06/03/2019 07:25:02 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:02 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:02 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/edittext_login_email and  locatorType: id
+06/03/2019 07:25:03 PM - MLoginPage - INFO: Enter email
+06/03/2019 07:25:03 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:03 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:03 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/textview_login_password and  locatorType: id
+06/03/2019 07:25:03 PM - MLoginPage - INFO: Enter password
+06/03/2019 07:25:03 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:04 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:04 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/button_login and  locatorType: id
+06/03/2019 07:25:04 PM - MLoginPage - INFO: Click login button
+06/03/2019 07:25:04 PM - MLoginPage - INFO: Just completed the wrongLogin method
+06/03/2019 07:25:06 PM - MLoginPage - INFO: errormsg is: Error Message
+Invalid credentials provided
+06/03/2019 07:25:09 PM - MLoginPage - INFO: TEST PASS: Verified invalid credentials provided error.
+06/03/2019 07:25:09 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++ENDING test_mvalidLoginWrongPassword++++++++++++++++++++++++++++++++++++
+06/03/2019 07:25:09 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_minvalidLoginWrongEmail++++++++++++++++++++++++++++++++++++
+06/03/2019 07:25:09 PM - MLoginTests - INFO: test_minvalidLoginWrongEmail
+06/03/2019 07:25:09 PM - MLoginTests - INFO: /Users/angee/PycharmProjects/XomePython3/testdata/MobileTestData.xlsx
+06/03/2019 07:25:09 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:09 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:09 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/edittext_login_email and  locatorType: id
+06/03/2019 07:25:09 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:09 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:09 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/textview_login_password and  locatorType: id
+06/03/2019 07:25:09 PM - MLoginPage - INFO: Clear fields
+06/03/2019 07:25:09 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:10 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:10 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/edittext_login_email and  locatorType: id
+06/03/2019 07:25:10 PM - MLoginPage - INFO: Enter email
+06/03/2019 07:25:10 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:10 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:10 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/textview_login_password and  locatorType: id
+06/03/2019 07:25:10 PM - MLoginPage - INFO: Enter password
+06/03/2019 07:25:10 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:11 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:11 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/button_login and  locatorType: id
+06/03/2019 07:25:11 PM - MLoginPage - INFO: Click login button
+06/03/2019 07:25:11 PM - MLoginPage - INFO: Just completed the wrongLogin method
+06/03/2019 07:25:13 PM - MLoginPage - INFO: errormsg is: Error Message
+Invalid credentials provided
+06/03/2019 07:25:15 PM - MLoginPage - INFO: TEST PASS: Verified invalid credentials provided error.
+06/03/2019 07:25:15 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++ENDING test_minvalidLoginWrongEmail++++++++++++++++++++++++++++++++++++
+06/03/2019 07:25:15 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_mvalidLogin++++++++++++++++++++++++++++++++++++
+06/03/2019 07:25:15 PM - MLoginTests - INFO: test_mvalidLogin
+06/03/2019 07:25:15 PM - MLoginTests - INFO: /Users/angee/PycharmProjects/XomePython3/testdata/MobileTestData.xlsx
+06/03/2019 07:25:15 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:15 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:15 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/edittext_login_email and  locatorType: id
+06/03/2019 07:25:15 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:16 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:16 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/textview_login_password and  locatorType: id
+06/03/2019 07:25:16 PM - MLoginPage - INFO: Clear fields
+06/03/2019 07:25:16 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:17 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:17 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/edittext_login_email and  locatorType: id
+06/03/2019 07:25:17 PM - MLoginPage - INFO: Enter email
+06/03/2019 07:25:17 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:17 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:17 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/textview_login_password and  locatorType: id
+06/03/2019 07:25:17 PM - MLoginPage - INFO: Enter password
+06/03/2019 07:25:17 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:18 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:18 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/button_login and  locatorType: id
+06/03/2019 07:25:18 PM - MLoginPage - INFO: Click login button
+06/03/2019 07:25:21 PM - MLoginPage - INFO: Completed Login
+06/03/2019 07:25:21 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:21 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:21 PM - MLoginPage - INFO: Element found with locator: android.widget.ImageButton and  locatorType: class
+06/03/2019 07:25:21 PM - MLoginPage - INFO: Click hamburger menu
+06/03/2019 07:25:24 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:25 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:25 PM - MLoginPage - INFO: Element found with locator: .//android.widget.TextView[@resource-id='com.xome.android:id/cont_title' and @index='0' and @text='Welcome Automation'] and  locatorType: xpath
+06/03/2019 07:25:25 PM - MLoginPage - INFO: Found welcomeusertext element.
+06/03/2019 07:25:25 PM - MLoginPage - INFO: Welcome user text is: Welcome Automation
+06/03/2019 07:25:25 PM - MLoginPage - INFO: ***VERIFIED SUCCESSFUL LOGIN.***
+06/03/2019 07:25:25 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:25 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:25 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/tvSearch and  locatorType: id
+06/03/2019 07:25:25 PM - MLoginPage - INFO: Dismiss menu by clicking on search box
+06/03/2019 07:25:25 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++ENDING test_mvalidLogin++++++++++++++++++++++++++++++++++++
+06/03/2019 07:25:25 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++STARTING test_mvalidLogout++++++++++++++++++++++++++++++++++++
+06/03/2019 07:25:25 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:27 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:27 PM - MLoginPage - INFO: Element found with locator: android.widget.ImageButton and  locatorType: class
+06/03/2019 07:25:27 PM - MLoginPage - INFO: Click hamburger menu
+06/03/2019 07:25:27 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:28 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:28 PM - MLoginPage - INFO: Element found with locator: .//*[@resource-id='com.xome.android:id/cont_title' and @index='0' and @text='MY XOME'] and  locatorType: xpath
+06/03/2019 07:25:30 PM - MLoginPage - INFO: Open MyXome header
+06/03/2019 07:25:30 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:30 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:30 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/nav_sign_out and  locatorType: id
+06/03/2019 07:25:32 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:32 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:32 PM - MLoginPage - INFO: Element found with locator: android:id/button1 and  locatorType: id
+06/03/2019 07:25:36 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:36 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:36 PM - MLoginPage - INFO: Element found with locator: android.widget.ImageButton and  locatorType: class
+06/03/2019 07:25:36 PM - MLoginPage - INFO: Click hamburger menu
+06/03/2019 07:25:36 PM - MLoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/03/2019 07:25:37 PM - MLoginPage - INFO: Wait for element and found.
+06/03/2019 07:25:37 PM - MLoginPage - INFO: Element found with locator: com.xome.android:id/cont_title and  locatorType: id
+06/03/2019 07:25:37 PM - MLoginPage - INFO: Found signin element after signed out.
+06/03/2019 07:25:37 PM - MLoginPage - INFO: ***SUCCESSFULLY LOGGED OUT.***
+06/03/2019 07:25:37 PM - MLoginTests - INFO: ++++++++++++++++++++++++++++++++++++ENDING test_mvalidLogout++++++++++++++++++++++++++++++++++++

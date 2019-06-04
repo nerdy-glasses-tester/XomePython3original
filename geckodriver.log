@@ -1,0 +1,1148 @@
+1559161601046	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.tMEVSdYvmeam"
+1559161601612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559161601612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559161601612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559161603062	Marionette	INFO	Listening on port 63920
+1559161603115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559161984107	Marionette	INFO	Stopped listening on port 63920
+1559162513529	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.RvQYspuN4exc"
+1559162513980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559162513980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559162513980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559162515370	Marionette	INFO	Listening on port 51650
+1559162515475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559162531117	Marionette	INFO	Stopped listening on port 51650
+1559163419124	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.P3KZdou2ObRx"
+1559163419934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559163419935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559163419935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559163422647	Marionette	INFO	Listening on port 55441
+1559163422694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559163556208	Marionette	INFO	Stopped listening on port 55441
+1559163577310	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.iTYz7ECIhUjr"
+1559163578064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559163578064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559163578064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559163580747	Marionette	INFO	Listening on port 56183
+1559163580792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559163681847	Marionette	INFO	Stopped listening on port 56183
+1559163687761	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.93rBXg3TOvOM"
+1559163688233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559163688233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559163688233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559163689570	Marionette	INFO	Listening on port 56732
+1559163689600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559163698040	Marionette	INFO	Stopped listening on port 56732
+1559163873859	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.mm87BuvkIA3b"
+1559163874797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559163874797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559163874797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559163878081	Marionette	INFO	Listening on port 57667
+1559163878150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559163937395	Marionette	INFO	Stopped listening on port 57667
+1559163944971	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.hKgoQR39Aba8"
+1559163945467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559163945467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559163945467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559163946888	Marionette	INFO	Listening on port 58104
+1559163946922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559163953974	Marionette	INFO	Stopped listening on port 58104
+[Child 3717, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1559164183424	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.8cpVsTbFwzcl"
+1559164183883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559164183884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559164183884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559164185183	Marionette	INFO	Listening on port 59181
+1559164185257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559164191537	Marionette	INFO	Stopped listening on port 59181
+1559164699868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.iIKl12y2Dn18"
+1559164700831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559164700831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559164700832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559164703516	Marionette	INFO	Listening on port 61367
+1559164703555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559164711065	Marionette	INFO	Stopped listening on port 61367
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1559165032638	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.A3lOLrBYtU8p"
+1559165033457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559165033458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559165033458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559165036124	Marionette	INFO	Listening on port 62845
+1559165036216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559165046745	Marionette	INFO	Stopped listening on port 62845
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600BA,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA90006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600BA,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA90006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1559167071033	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.MgC740vok6v8"
+1559167072023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559167072024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559167072024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559167074820	Marionette	INFO	Listening on port 53973
+1559167074841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559167084358	Marionette	INFO	Stopped listening on port 53973
+1559167275504	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.1FLa01htQeXF"
+1559167276507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559167276507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559167276508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559167279140	Marionette	INFO	Listening on port 55029
+1559167279172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559167289093	Marionette	INFO	Stopped listening on port 55029
+JavaScript error: https://static.zdassets.com/web_widget/latest/web_widget.3d75910317649ec4e24a.js, line 79: NS_ERROR_NOT_INITIALIZED: 
+1559167529250	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.Aaqz3qJZftxO"
+1559167530068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559167530068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559167530069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559167532916	Marionette	INFO	Listening on port 56188
+1559167532950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559167542053	Marionette	INFO	Stopped listening on port 56188
+1559167675088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.RxVEapdxkVkK"
+1559167675999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559167676000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559167676000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559167678634	Marionette	INFO	Listening on port 56905
+1559167678681	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559167688810	Marionette	INFO	Stopped listening on port 56905
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1559167873498	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.YgU2ONe6MlOB"
+1559167874047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559167874047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559167874047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559167875395	Marionette	INFO	Listening on port 57836
+1559167875456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1559167911660	Marionette	INFO	Stopped listening on port 57836
+1559168005791	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.6NCjAx9cdZrR"
+1559168006369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559168006370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559168006370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559168007762	Marionette	INFO	Listening on port 58583
+1559168007852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559168042990	Marionette	INFO	Stopped listening on port 58583
+1559168053578	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.JnRVOUYjSA81"
+1559168054398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559168054398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559168054398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559168057337	Marionette	INFO	Listening on port 58905
+1559168057389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559168095014	Marionette	INFO	Stopped listening on port 58905
+1559168235828	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.2xqhZKok9CIE"
+1559168236286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559168236287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559168236287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559168237681	Marionette	INFO	Listening on port 59830
+1559168237780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559168244237	Marionette	INFO	Stopped listening on port 59830
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1559168323830	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.0vydVlOvFVay"
+1559168324292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559168324292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559168324292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559168325680	Marionette	INFO	Listening on port 60300
+1559168325772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559168395330	Marionette	INFO	Stopped listening on port 60300
+1559168706150	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.8hBs2cS3ggAL"
+1559168707120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559168707120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559168707121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559168709718	Marionette	INFO	Listening on port 62459
+1559168709760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559148788979%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559168928540	Marionette	INFO	Stopped listening on port 62459
+1559169264180	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.9x7ImhoCab9W"
+1559169264995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559169264995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559169264995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559169267594	Marionette	INFO	Listening on port 65216
+1559169267734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559169311426	Marionette	INFO	Stopped listening on port 65216
+1559169519603	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.k0IXuSpOM5iF"
+1559169520182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559169520182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559169520182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559169521575	Marionette	INFO	Listening on port 50140
+1559169521649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1559169605165	Marionette	INFO	Stopped listening on port 50140
+1559169719850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.9i1z4Pxe41wD"
+1559169720748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559169720749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559169720749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559169723579	Marionette	INFO	Listening on port 51422
+1559169723633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559148788979%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559169883302	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.hdgnhysLei4i"
+1559169883834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559169883835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559169883835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559169885267	Marionette	INFO	Listening on port 52233
+1559169885367	Marionette	INFO	Stopped listening on port 51422
+1559169885372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559170004318	Marionette	INFO	Stopped listening on port 52233
+1559170084654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.UHRApR4jaTNb"
+1559170085538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559170085538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559170085538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559170088243	Marionette	INFO	Listening on port 53213
+1559170088349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1559170531449	Marionette	INFO	Stopped listening on port 53213
+1559170546465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.L3Lhr37GwTVG"
+1559170547327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559170547328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559170547328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559170549010	Marionette	INFO	Listening on port 55247
+1559170549043	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559170593022	Marionette	INFO	Stopped listening on port 55247
+1559170834887	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.CFNzdq2DsAra"
+1559170835946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559170835947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559170835947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559170838583	Marionette	INFO	Listening on port 56546
+1559170838685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559170977382	Marionette	INFO	Stopped listening on port 56546
+1559171162693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.oF9Eqzvwk94Y"
+1559171163278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559171163278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559171163278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559171164756	Marionette	INFO	Listening on port 58020
+1559171164858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559171206736	Marionette	INFO	Stopped listening on port 58020
+1559171778586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.pMZsrkRkfLWK"
+1559171779567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559171779568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559171779568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559171782363	Marionette	INFO	Listening on port 60645
+1559171782397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1559172009926	Marionette	INFO	Stopped listening on port 60645
+1559172074030	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.8b37T4FBiHz6"
+1559172074910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559172074911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559172074911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559172077628	Marionette	INFO	Listening on port 62003
+1559172077651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559148788979%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559172393284	Marionette	INFO	Stopped listening on port 62003
+1559172513393	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.CM9joA9M0khL"
+1559172514188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559172514189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559172514190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559172516857	Marionette	INFO	Listening on port 63942
+1559172516900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559172722969	Marionette	INFO	Stopped listening on port 63942
+1559172749928	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.TDbIGsRrwYgw"
+1559172750860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559172750860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559172750860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559172753717	Marionette	INFO	Listening on port 65043
+1559172753823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559172834520	Marionette	INFO	Stopped listening on port 65043
+1559172941768	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.JQFWjFGJrh7C"
+1559172942599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559172942600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559172942600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559172945088	Marionette	INFO	Listening on port 49576
+1559172945287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559148788979%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1559173493763	Marionette	INFO	Stopped listening on port 49576
+1559173503778	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.4ccILzPTNKXW"
+1559173504558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559173504558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559173504558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559173507313	Marionette	INFO	Listening on port 51997
+1559173507375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://static.zdassets.com/web_widget/latest/web_widget.3d75910317649ec4e24a.js, line 79: TypeError: o.child is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559148788979%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559174056293	Marionette	INFO	Stopped listening on port 51997
+1559174088388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.aDXqvXhVnNYp"
+1559174089309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559174089309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559174089309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559174092155	Marionette	INFO	Listening on port 54501
+1559174092204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559174113096	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559174174762	Marionette	INFO	Stopped listening on port 54501
+1559174656283	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.EM5fJJnqBKuu"
+1559174657171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559174657172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559174657172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559174659765	Marionette	INFO	Listening on port 56963
+1559174659783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559174682079	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://static.zdassets.com/web_widget/latest/web_widget.3d75910317649ec4e24a.js, line 79: TypeError: o.child is null
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559174743333	Marionette	INFO	Stopped listening on port 56963
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1559174889961	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.sITAJpTPeSCV"
+1559174890928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559174890929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559174890929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559174893732	Marionette	INFO	Listening on port 58068
+1559174893757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559174914193	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559174946628	Marionette	INFO	Stopped listening on port 58068
+1559175504549	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.NftcqJRq5zUM"
+1559175505471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559175505471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559175505472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559175508271	Marionette	INFO	Listening on port 60740
+1559175508318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559175529673	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559175621518	Marionette	INFO	Stopped listening on port 60740
+1559176203465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.ibCnPUs6FlV3"
+1559176204240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559176204241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559176204241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559176207032	Marionette	INFO	Listening on port 63742
+1559176207049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559176231200	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&redirectToSucessPage=https://www.xome.com/, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&redirectToSucessPage=https://www.xome.com/, line 1160: ReferenceError: analytics is not defined
+1559176281723	Marionette	INFO	Stopped listening on port 63742
+1559176315622	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.0b6URw7dEULi"
+1559176316543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559176316544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559176316544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559176318932	Marionette	INFO	Listening on port 64389
+1559176319002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559176340908	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559176540396	Marionette	INFO	Stopped listening on port 64389
+1559176632543	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.OXBUsiliMj6Y"
+1559176633371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559176633372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559176633372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559176636026	Marionette	INFO	Listening on port 49441
+1559176636117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559176656940	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&redirectToSucessPage=https://www.xome.com/, line 1160: ReferenceError: analytics is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1559177007968	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.17hDuchzTOZY"
+1559177008463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559177008463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559177008463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559177009821	Marionette	INFO	Listening on port 51099
+1559177009923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559177038269	Marionette	INFO	Stopped listening on port 51099
+1559177229679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.2zlhaqldO4nf"
+1559177230557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559177230558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559177230558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559177233132	Marionette	INFO	Listening on port 52140
+1559177233159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559177270407	Marionette	INFO	Stopped listening on port 52140
+1559177439465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.Qm6pSKDeZwPK"
+1559177440430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559177440431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559177440432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559177443141	Marionette	INFO	Listening on port 53126
+1559177443158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://static.zdassets.com/web_widget/latest/web_widget.3d75910317649ec4e24a.js, line 79: TypeError: o.child is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559177464226	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1559177466386	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559177546762	Marionette	INFO	Stopped listening on port 53126
+1559177688361	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.XkhZ9ll3juEQ"
+1559177689004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559177689004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559177689004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559177690603	Marionette	INFO	Listening on port 54296
+1559177690626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559177710501	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1559177712816	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+1559177736073	Marionette	INFO	Stopped listening on port 54296
+1559179641997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.LBs6h9W3lMWB"
+1559179642833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559179642833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559179642833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559179645515	Marionette	INFO	Listening on port 62365
+1559179645581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559179682170	Marionette	INFO	Stopped listening on port 62365
+1559179766273	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.331ZXTs3ZQdq"
+1559179767251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559179767252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559179767252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559179769864	Marionette	INFO	Listening on port 63011
+1559179769886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559179807570	Marionette	INFO	Stopped listening on port 63011
+1559179867896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.MBvheVP3NWq7"
+1559179868501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559179868501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559179868502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559179870022	Marionette	INFO	Listening on port 63568
+1559179870069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559179906466	Marionette	INFO	Stopped listening on port 63568
+1559181389179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.TBoIx4U1pbre"
+1559181389665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559181389665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559181389665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559181391054	Marionette	INFO	Listening on port 53419
+1559181391136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559181427577	Marionette	INFO	Stopped listening on port 53419
+1559181836193	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.sSHwcz3xhpEO"
+1559181836799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559181836800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559181836800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559181838181	Marionette	INFO	Listening on port 55355
+1559181838266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559181876233	Marionette	INFO	Stopped listening on port 55355
+1559182045739	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.3tuRBknbLvlh"
+1559182046400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559182046400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559182046400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559182047827	Marionette	INFO	Listening on port 56376
+1559182047908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559182084746	Marionette	INFO	Stopped listening on port 56376
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10609, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1559186393059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.Cj3nTYoY9zMK"
+1559186394113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559186394113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559186394113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559186395683	Marionette	INFO	Listening on port 49331
+1559186395724	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559186457227	Marionette	INFO	Stopped listening on port 49331
+1559186681038	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.yU40UJQD3pLn"
+1559186681515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559186681516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559186681516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559186682897	Marionette	INFO	Listening on port 49430
+1559186682987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559186774180	Marionette	INFO	Stopped listening on port 49430
+1559186818845	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.glVyCamvyfFV"
+1559186819401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559186819402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559186819402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559186820763	Marionette	INFO	Listening on port 49526
+1559186820790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559186886078	Marionette	INFO	Stopped listening on port 49526
+1559188055527	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.jAWAnXwrrU89"
+1559188056318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559188056319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559188056320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559188057732	Marionette	INFO	Listening on port 50122
+1559188057781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559188147429	Marionette	INFO	Stopped listening on port 50122
+1559228375907	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.G0VqmhUrFKce"
+1559228376459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559228376459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559228376459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559228377822	Marionette	INFO	Listening on port 50666
+1559228377863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559228431504	Marionette	INFO	Stopped listening on port 50666
+1559228908650	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.yLizFKpckINF"
+1559228909195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559228909195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559228909195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559228910556	Marionette	INFO	Listening on port 50846
+1559228910600	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2092, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1559229088792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.UdGUS03qHKWQ"
+1559229089548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559229089548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559229089549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559229090930	Marionette	INFO	Listening on port 50945
+1559229090955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559229098893	Marionette	INFO	Stopped listening on port 50945
+1559229187390	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.O0xBgTOIs2y3"
+1559229187861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559229187861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559229187861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559229189168	Marionette	INFO	Listening on port 51031
+1559229189242	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559229209335	Marionette	INFO	Stopped listening on port 51031
+1559229302760	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.f2BBjuErHq36"
+1559229303539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559229303539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559229303539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559229305193	Marionette	INFO	Listening on port 51120
+1559229305231	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1559229404526	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.ub4gRSlMiIsF"
+1559229405131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559229405131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559229405132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559229406574	Marionette	INFO	Listening on port 51220
+1559229406586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559229423914	Marionette	INFO	Stopped listening on port 51220
+1559229671251	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.EkjhkVDIewAD"
+1559229671819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559229671820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559229671820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559229673205	Marionette	INFO	Listening on port 51310
+1559229673290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559229690399	Marionette	INFO	Stopped listening on port 51310
+1559229976332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.wyUm8rkDRUR5"
+1559229976885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559229976886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559229976886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559229978229	Marionette	INFO	Listening on port 51403
+1559229978273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559229988503	Marionette	INFO	Stopped listening on port 51403
+1559230084891	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.3FScJetV8vVH"
+1559230085389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559230085389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559230085389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559230086782	Marionette	INFO	Listening on port 51487
+1559230086842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559230094287	Marionette	INFO	Stopped listening on port 51487
+1559230149947	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.C3LAiJ17EuWX"
+1559230150511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559230150512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559230150512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559230151908	Marionette	INFO	Listening on port 51569
+1559230151996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559230169711	Marionette	INFO	Stopped listening on port 51569
+1559230282397	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.ddoBJVOV9YJz"
+1559230282835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559230282836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559230282836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559230284169	Marionette	INFO	Listening on port 51691
+1559230284242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559230291674	Marionette	INFO	Stopped listening on port 51691
+1559230667707	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.WUZgMGmjCE7G"
+1559230668163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559230668164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559230668164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559230669506	Marionette	INFO	Listening on port 51795
+1559230669549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559230708948	Marionette	INFO	Stopped listening on port 51795
+1559230973980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.4xRCMO4BrQuu"
+1559230974420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559230974420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559230974421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559230975801	Marionette	INFO	Listening on port 51922
+1559230975825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559231014998	Marionette	INFO	Stopped listening on port 51922
+1559231080553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.9nqbOLfBf18S"
+1559231080999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559231080999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559231080999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559231082349	Marionette	INFO	Listening on port 52044
+1559231082386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559231121544	Marionette	INFO	Stopped listening on port 52044
+1559231347490	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.CvaMxrFgT9Lt"
+1559231347930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559231347930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559231347930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559231349306	Marionette	INFO	Listening on port 52172
+1559231349338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559231358292	Marionette	INFO	Stopped listening on port 52172
+JavaScript error: https://secure.quantserve.com/quant.js, line 19: NS_ERROR_UNEXPECTED: 
+1559231494738	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.TYZ65ZwQCnPe"
+1559231495301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559231495301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559231495301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559231496651	Marionette	INFO	Listening on port 52276
+1559231496694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559231505368	Marionette	INFO	Stopped listening on port 52276
+JavaScript error: https://secure.quantserve.com/quant.js, line 19: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1559231709384	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.7Ll6Ow2dxKlX"
+1559231709930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559231709931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559231709931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559231711291	Marionette	INFO	Listening on port 52386
+1559231711331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559231720187	Marionette	INFO	Stopped listening on port 52386
+1559231900911	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.jTg2lThcQcRE"
+1559231901470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559231901471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559231901471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559231902827	Marionette	INFO	Listening on port 52507
+1559231902866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559231910541	Marionette	INFO	Stopped listening on port 52507
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 17: NS_ERROR_NOT_INITIALIZED: 
+1559231961694	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.ApKtPCluCCOG"
+1559231962169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559231962169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559231962169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559231963493	Marionette	INFO	Listening on port 52597
+1559231963540	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559231973000	Marionette	INFO	Stopped listening on port 52597
+JavaScript error: https://secure.quantserve.com/quant.js, line 19: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1559232744606	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.1vOos1fZcnJf"
+1559232745057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559232745057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559232745057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559232746460	Marionette	INFO	Listening on port 52720
+1559232746560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559232754966	Marionette	INFO	Stopped listening on port 52720
+1559232804270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.DZ9sBD9QqPpS"
+1559232804812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559232804812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559232804812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559232806176	Marionette	INFO	Listening on port 52849
+1559232806210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559232815089	Marionette	INFO	Stopped listening on port 52849
+JavaScript error: https://secure.quantserve.com/quant.js, line 19: NS_ERROR_UNEXPECTED: 
+1559232982218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.544HwhCy6CuK"
+1559232982767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559232982767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559232982767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559232984136	Marionette	INFO	Listening on port 53077
+1559232984167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+1559232996755	Marionette	INFO	Stopped listening on port 53077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Closed channel: cannot send/recv
+
+1559233079404	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.ID4lLdLm8oZn"
+1559233079839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559233079839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559233079839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559233081183	Marionette	INFO	Listening on port 53354
+1559233081241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+1559233096611	Marionette	INFO	Stopped listening on port 53354
+1559233172720	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.jzENCXEFPH9j"
+1559233173524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559233173524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559233173524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559233176342	Marionette	INFO	Listening on port 53492
+1559233176405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+1559233192494	Marionette	INFO	Stopped listening on port 53492
+[Child 3139, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 3139, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 3139, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 3139, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 3139, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 3139, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 3139, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1559233269627	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.HbcUXGbX8aCC"
+1559233270455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559233270455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559233270456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559233273244	Marionette	INFO	Listening on port 53654
+1559233273318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://static.zdassets.com/web_widget/latest/web_widget.08e0ef26c1cab733cd02.js, line 79: TypeError: o.child is null
+1559233290281	Marionette	INFO	Stopped listening on port 53654
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1559233508102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.EPfnyPtTV1ny"
+1559233508881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559233508881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559233508882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559233511608	Marionette	INFO	Listening on port 53812
+1559233511674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559233541546	Marionette	INFO	Stopped listening on port 53812
+1559233879611	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.Whdv3gu8mV7q"
+1559233880188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559233880189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559233880189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559233881535	Marionette	INFO	Listening on port 53975
+1559233881565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559233908356	Marionette	INFO	Stopped listening on port 53975
+1559234126783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.3o6JqsHXYBpX"
+1559234127270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559234127270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559234127270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559234128632	Marionette	INFO	Listening on port 54126
+1559234128727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559234156008	Marionette	INFO	Stopped listening on port 54126
+1559234264860	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.iPiCLmqxJF4C"
+1559234265816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559234265817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559234265817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559234268585	Marionette	INFO	Listening on port 54270
+1559234268660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559234277436	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://static.zdassets.com/web_widget/latest/web_widget.08e0ef26c1cab733cd02.js, line 79: TypeError: o.child is null
+JavaScript error: https://static.zdassets.com/web_widget/latest/web_widget.08e0ef26c1cab733cd02.js, line 79: NS_ERROR_FAILURE: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559234297945	Marionette	INFO	Stopped listening on port 54270
+1559234431147	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.Uu32tFkhFEER"
+1559234431771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559234431772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559234431772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559234433252	Marionette	INFO	Listening on port 54442
+1559234433300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559234459438	Marionette	INFO	Stopped listening on port 54442
+1559236129830	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.6ZnDIupp5vv7"
+1559236130505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559236130506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559236130506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559236132074	Marionette	INFO	Listening on port 55088
+1559236132100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559236140394	Marionette	INFO	Stopped listening on port 55088
+1559236864580	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.6uwTmi6XqXsH"
+1559236865448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559236865449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559236865449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559236868128	Marionette	INFO	Listening on port 55189
+1559236868163	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559236877922	Marionette	INFO	Stopped listening on port 55189
+1559237208109	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.EkvsmaoUFjPa"
+1559237208934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559237208935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559237208935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559237210269	Marionette	INFO	Listening on port 55627
+1559237210363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559237217595	Marionette	INFO	Stopped listening on port 55627
+1559238006991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.QJUbwg4vZusP"
+1559238007806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559238007807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559238007807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559238010130	Marionette	INFO	Listening on port 55731
+1559238010165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+1559238019619	Marionette	INFO	Stopped listening on port 55731
+JavaScript error: https://secure.quantserve.com/quant.js, line 19: NS_ERROR_UNEXPECTED: 
+1559238059908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.ptyG37kKVQTF"
+1559238060792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559238060792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559238060792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559238063426	Marionette	INFO	Listening on port 55859
+1559238063485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559238072422	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559174406944%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559238090107	Marionette	INFO	Stopped listening on port 55859
+1559315644586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/96/1hpwbx013f7bp7hdb86s9gsc0000gp/T/rust_mozprofile.KibjFwBv0ypl"
+1559315645085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559315645085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559315645085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559315646518	Marionette	INFO	Listening on port 51123
+1559315646547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+JavaScript error: https://www.xome.com/auctions/account/login.aspx?formtype=login&onregister=CustomerLogin.register&onsignin=CustomerLogin.signin&onresize=CustomerLogin.resizeoverlay&onloginsuccess=CustomerLogin.redirectToSucessPage&reloadCurrentPage=True&x=referall&x=referall&loginerrors=Oops%2C%20the%20e-mail%20or%20password%20doesn%27t%20match.%7C, line 1160: ReferenceError: analytics is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1559315672894	Marionette	INFO	Stopped listening on port 51123
