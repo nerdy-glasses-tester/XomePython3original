@@ -1,0 +1,12 @@
+pip3 install ipython
+pip3 install selenium
+pip3 install pytest
+pip3 install pytest-ordering
+pip3 install pytest-html
+pip3 install pytest-xdist
+pip3 install ddt
+pip3 install openpyxl
+pip3 install xlutils
+pip3 install Appium-Python-Client
+pip3 install path.py
+pip3 install pytest-cases
