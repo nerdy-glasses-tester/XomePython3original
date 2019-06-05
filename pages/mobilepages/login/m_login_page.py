@@ -155,7 +155,7 @@ class MLoginPage(BasePage):
         self.enterPassword(password)
         self.clickLoginButton()
         self.log.info("Just completed the wrongLogin method")
-        time.sleep(2)
+        time.sleep(3)
 
     def verifyLoginSuccessful(self, name):
         self.clickHamburgerMenu()
@@ -190,7 +190,7 @@ class MLoginPage(BasePage):
         element = error.text
         self.log.info("errormsg is: "+element)
         error.accept()
-        time.sleep(2)
+        time.sleep(3)
         if "Invalid credentials provided" in element:
             self.log.info("TEST PASS: Verified invalid credentials provided error.")
             return True

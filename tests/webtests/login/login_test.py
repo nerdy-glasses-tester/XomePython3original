@@ -1,11 +1,12 @@
 from base.webdriverFactory import WebDriverFactory
 from pages.webpages.login.login_page import LoginPage
 from utilities.teststatus import TestStatus
+from utilities.excel_utils import ExcelUtils
 import unittest, pytest
 import utilities.custom_logger as cl
 import logging
 import os
-from utilities.excel_utils import ExcelUtils as excelutils
+
 
 @pytest.mark.usefixtures("setUp")
 class LoginTests(unittest.TestCase):
@@ -17,10 +18,10 @@ class LoginTests(unittest.TestCase):
         self.wdf = WebDriverFactory(self.browser, self.os)
         self.lp = LoginPage(self.driver)
         self.ts = TestStatus(self.driver)
-        self.excel = excelutils(self.driver)
+        self.excel = ExcelUtils(self.driver)
 
     def get_excel_data(self, testName):
-        datafile = os.path.join(self.thisdir, 'testdata/TestData.xlsx')
+        datafile = os.path.join('testdata/TestData.xlsx')
         self.log.info(datafile)
         data = self.excel.get_input_rows(datafile, testName)
         return data

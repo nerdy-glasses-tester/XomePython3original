@@ -27,7 +27,6 @@ class WebDriverFactory():
         self.browser = browser
         self.os = os
 
-
     """
         Set chrome driver and iexplorer environment based on OS
 
