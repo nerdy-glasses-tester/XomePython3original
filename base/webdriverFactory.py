@@ -119,17 +119,11 @@ class WebDriverFactory():
                 desired_caps['xcodeSigningId'] = 'iPhone Developer'
                 desired_caps['newCommandTimeout'] = 120
                 #desired_caps['app'] = Path('../zfiles/base.apk')
-                appzpath = os.path.join(self.thisdir, 'zfiles/base.apk')
+                appzpath = os.path.join(self.thisdir, 'zfiles/base.ipa')
                 desired_caps['app'] = Path(appzpath)
                 driver = appdriver.Remote("http://localhost:4723/wd/hub", desired_caps)
                 self.log.info("Running iOS Tests")
 
-                # Loading browser with App URL
-                driver.get(baseURL)
-                time.sleep(5)
-
-                # Setting Driver Implicit Time out for An Element
-                driver.implicitly_wait(30)
 
                 items.append(driver)
                 items.append(self.browser)
