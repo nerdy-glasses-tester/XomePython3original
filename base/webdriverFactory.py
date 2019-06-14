@@ -93,8 +93,8 @@ class WebDriverFactory():
                 desired_caps['deviceName'] = 'Nexus'
                 desired_caps['appPackage'] = "com.xome.android"
                 #adb shell dumpsys window windows|grep -E 'mCurrentFocus' to get app info
-                #desired_caps['appActivity'] = "com.xome.android.ui.map.MapActivity2"
-                desired_caps['appActivity'] = "com.xome.android.feature.mapsearch.view.MapActivity2"
+                desired_caps['appActivity'] = "com.xome.android.ui.map.MapActivity2"
+                #desired_caps['appActivity'] = "com.xome.android.feature.mapsearch.view.MapActivity2"
                 desired_caps['newCommandTimeout'] = 120
                 #desired_caps['app'] = Path('../zfiles/base.apk')
                 appzpath = os.path.join(self.thisdir, 'zfiles/base.apk')
