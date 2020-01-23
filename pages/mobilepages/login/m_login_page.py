@@ -191,7 +191,7 @@ class MLoginPage(BasePage):
         self.log.info("errormsg is: "+element)
         error.accept()
         time.sleep(3)
-        if "Invalid credentials provided" in element:
+        if "Sign In Failed" in element:
             self.log.info("TEST PASS: Verified invalid credentials provided error.")
             return True
         else:
