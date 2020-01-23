@@ -71,7 +71,7 @@ class WebDriverFactory():
 
             # Maximize the window
             driver.maximize_window()
-            driver.set_window_size(1440, 900)  # mac 15inch screen resolution
+            #driver.set_window_size(1440, 900)  # mac 15inch screen resolution
             time.sleep(5)
 
             # Setting Driver Implicit Time out for An Element
