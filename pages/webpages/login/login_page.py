@@ -83,7 +83,7 @@ class LoginPage(BasePage):
         element = self.getElement(locator=self._wrong_pwd_email_error, locatorType="xpath")
         error = element.get_attribute("innerText")
         self.log.info("Error text found on page is: "+error)
-        if error == "Oops, the e-mail or password doesn't match.":
+        if error == "This combination of email or password is invalid.":
             self.log.info("TEST PASS: Verified error for wrong login. Oops, the e-mail or password doesn't match.")
             return True
         else:
