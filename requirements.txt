@@ -1,5 +1,5 @@
 #create a virtual environment with these packages in order to run this project
-ipython==7.5.0
+ipython==7.16.3
 pytest==4.5.0
 pytest-html==1.20.0
 pytest-ordering==0.6
